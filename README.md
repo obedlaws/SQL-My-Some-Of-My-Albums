@@ -7,4 +7,4 @@ personal projects to make my portfolio better
 
 Here is the diagram that I created to 
 ![](Planning.svg)
-
+ 
