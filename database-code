@@ -1,0 +1,13 @@
+CREATE TABLE public.albums (
+	album_name VARCHAR(50),
+  	artist_or_band VARCHAR(50),
+	release_date DATE,
+	country VARCHAR(50),
+	publishing_label VARCHAR(50)
+);
+
+CREATE TABLE public.labels (
+	label_name VARCHAR(50),
+  	foundation_date DATE,
+	main_genre VARCHAR(50)
+);
