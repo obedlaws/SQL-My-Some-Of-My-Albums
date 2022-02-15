@@ -5,6 +5,7 @@ For this assignment i had to create multiple talbes and also some diagrams to
 plan and create this small database that gave me some ideas for futures
 personal projects to make my portfolio better
 
-Here is the diagram that I created to 
+Here is the diagram that I created to plan the small DB:
+
 ![](Planning.svg)
  
