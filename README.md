@@ -6,4 +6,5 @@ plan and create this small database that gave me some ideas for futures
 personal projects to make my portfolio better
 
 Here is the diagram that I created to 
-[diagram](https://github.com/obedlaws/SQL-My-Some-Of-My-Albums/blob/master/Planning.svg)
+[](Planning.svg)
+
